@@ -8,9 +8,7 @@ CLASS views
 		/* ¿existe la vista?*/
 		if (file_exists("./VIEW/$view")) {
 			
-			/*cargando vista*/
-
-			/*
+			/*cargando vista
 			
 			NOTA : 
 
