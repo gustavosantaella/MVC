@@ -3,10 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Sistema Indicador Estadístico - SIE</title>
+	<title>MVC</title>
 	<link rel="stylesheet" href="">
 </head>
 <body>
 	
-</body>
-</html>
